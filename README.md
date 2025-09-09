@@ -45,3 +45,8 @@ Predict whether a customer will churn (leave) a telecom provider using **XGBoost
 - `xgb_churn_model.pkl` → Trained XGBoost model  
 - `feature_columns.pkl` → Columns used for training  
 
+## 👨‍💻 Author
+
+* V Om Keshava Reddy
+* 📌 B.Tech CSE (AI & ML), SRM University
+* 🔗 [LinkedIn](https://www.linkedin.com/in/v-om-keshava-reddy-792478349/)| [GitHub](https://github.com/keshavreddy04)| [LeetCode](https://leetcode.com/u/keshav_30/)
